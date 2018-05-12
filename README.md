@@ -1,4 +1,4 @@
-# mode_recognition_machine_learning
+# Mode Recognition Machine Learning
 Code and notes to develop machine recognition of modes that represent the final step of a quantum random walk in the space of orbital angular momentum of LASER light, in which the labelling process is automated.
 
 The material in this repository is supplemetary to this tutorial
