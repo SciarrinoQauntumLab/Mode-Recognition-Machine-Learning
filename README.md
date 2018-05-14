@@ -11,3 +11,6 @@ from EdjeElectronics. The steps to follow in lab are:
 4) Go back to the guide and produce all the needed files, skipping the steps related to the labeling of the images, that has automatically been done in the previous step.
 
 You can use this technique to know how similar to the model on which your computer learned are the modes you are genearating or to teach to your computer to recognize wether the experimental realization has some misalignements or errors in the generation of the modes and know ho to correct them.
+
+Wanting to apply this technique in the laboratory, one may wish to save pictures of an experimental result while a parameter changes; if you want to automate this variation, as in our case, you can use the code "motorino.ipynb", which makes use of PyAPT packages, that you can find here:
+https://github.com/mcleung/PyAPT
